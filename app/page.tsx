@@ -560,7 +560,7 @@ export default function Home() {
               <div className="divider"></div>
               <p>TECH: Next.js, TypeScript, Express.js, Tailwind CSS, RadixUI, MySQL</p>
               <div style={{ marginTop: "20px" }}>
-                <a href="https://morx-corp.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">View Project →</a>
+                <a href="https://morx-team.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">View Project →</a>
               </div>
             </div>
             <div className="project-media">
